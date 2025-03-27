@@ -22,6 +22,6 @@ export const theme: IPreferenceModule = {
     blend: 'luminosity',
     contrast: 0.504,
     blur: 0,
-    url: 'https://media4.giphy.com/media/3oEduUkR13701mndnO/giphy.mp4?cid=015e012due85f1yy8kwpl3qgrdwdt7sw71tq3jv3nf58ggwg&ep=v1_gifs_search&rid=giphy.mp4&ct=g',
+    url: 'https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJrMDVqY216bXpjZ2gyd25xaHZvcHB6bHpnMGM1c2xyenZ2aGc3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rqitBoEDSRwmHXDyOL/giphy.gif',
   },
 }
